@@ -1,0 +1,4 @@
+detallo los archivos que no quiero ver en GITHUB
+
+.env
+node_modules
